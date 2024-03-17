@@ -1,0 +1,2 @@
+Git rebase, intinya, adalah memindahkan sebuah branch ke branch lain supaya seolah-olah branch yang dipindah tersebut dikembangkan secara linear setelah branch atasnya. Git rebase lebih mudah dijelaskan dengan sebuah permisalan. Misalkan saja, kita ingin pindahkan branch 'weaponSystem' ke branch 'main'. Lantas, kita rebase branch 'weaponSystem' menuju 'main'. Setelah proses rebase selesai, branch 'weaponSystem' itu akan seolah-olah dicommit setelah branch 'main'.
+
